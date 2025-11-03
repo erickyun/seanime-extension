@@ -2,7 +2,7 @@
     "id": "oppai-stream-online-streaming",
     "name": "4k | Oppai Stream (18+)",
     "version": "1.0.3",
-    "manifestURI": "https://raw.githubusercontent.com/TropicalFrog3/seanime-extension/refs/heads/main/online-streaming/oppai-stream/manifest.json",
+    "manifestURI": "https://raw.githubusercontent.com/erickyun/seanime-extension/refs/heads/main/online-streaming/oppai-stream/manifest.json",
     "language": "typescript",
     "type": "onlinestream-provider",
     "description": "Provides seamless integration with the oppai.stream catalog for online streaming within Seanime, enabling users to watch available titles directly from the platform. Now includes 2160p (4K) quality support.",
